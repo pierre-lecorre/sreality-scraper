@@ -1,0 +1,7 @@
+redataprocessing
+pandas
+aiohttp
+requests
+tqdm
+certifi
+numpy
